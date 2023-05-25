@@ -1,5 +1,6 @@
 # asyncPriceAPI
 
-async code using REST or Websocket API 
+REST or Websocket API async code using Node.js 
 
-심심할 때 기록남기는 레파지토리
+- API를 활용해서 오더북 데이터를 가져오는 Node.js 코드
+- 비동기 최적화를 우선으로 함
